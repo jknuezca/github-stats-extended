@@ -79,7 +79,7 @@
     "generate-langs-json": "node scripts/generate-langs-json"
   },
   "devDependencies": {
-    "@testing-library/dom": "10.4.1",
+    "@testing-library/dom": "10.4.2",
     "@testing-library/jest-dom": "6.9.1",
     "@uppercod/css-to-object": "1.1.1",
     "axios-mock-adapter": "2.1.0",
